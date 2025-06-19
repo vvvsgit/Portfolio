@@ -1,0 +1,10 @@
+a. Input unit
+b. Programming
+c. Assembler
+d. Output unit
+e. Memory unit
+f. Arithmetic and logic unit
+g. CPU
+h. High-level language
+i. Machine language
+j. Central processing unit

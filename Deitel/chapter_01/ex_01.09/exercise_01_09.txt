@@ -1,0 +1,4 @@
+a. Object orientation is the key programming methodology used by programmers today. You will create and work with many software objects in this text. You will discover however, that their internal structure is often built using structured-programming techniques. Also, the logic of manipulating objects is occasionally expressed with structured programming.
+b. At first the code writer must  analise and understand what the programm must do that he wants to write and after that he must finde out how it would do that.It is modeling objets by their attributes, behaviors and interrelationships
+c. By talking to each other or maybe with some gestures
+d. I think it cathes the radio waves and reproduses it for user.

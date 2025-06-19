@@ -1,0 +1,1 @@
+Variables are replaced in a and b.

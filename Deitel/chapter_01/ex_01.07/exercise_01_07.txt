@@ -1,0 +1,2 @@
+Attention focused on object-oriented programming, because it is easier to understand, correct and modify. Objects are essentially reusable software components that model items in the real world. Software developers are discovering that using modular, object-oriented design and implementation approach can make them much more productive than they can be with previous popular programming techniques.
+Attention particularly focused in C++ because it is standardized, hardware-independent, widely available language.

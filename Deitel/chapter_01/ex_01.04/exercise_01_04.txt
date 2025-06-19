@@ -1,0 +1,6 @@
+a. CPU is a hardware.
+b. C++ compiler is a software.
+c. ALU is a is a hardware.
+d. C++ preprocessor is a software.
+e. Input unit is a hardware.
+f. An editor program is a software.

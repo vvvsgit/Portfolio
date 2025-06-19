@@ -1,0 +1,5 @@
+a. Division and modulus.
+
+b. Innermost pair is evaluated first.
+
+c. A location in the computer's memory that may contain different values at various times throughtout the execution of a program is called a variable.

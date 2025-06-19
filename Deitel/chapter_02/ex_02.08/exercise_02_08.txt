@@ -1,0 +1,9 @@
+a. Comments are used to document a programm and improve its readability.
+
+b. The object used to print information on the screen is 'std::cout'.
+
+c. A C++ statemant that makes decision is 'if'.
+
+d. Most calculations are normally performed by assignment statements.
+
+e. The 'std::cin' object inputs values from the keyboard.

@@ -1,0 +1,1 @@
+At fatal-error programm ends immediately, but in non fatal it will continue working and may give the wrong result, which is could be worse than immediately ending, because i would prefer to know that my programm is written with mistakes than get wrong result.

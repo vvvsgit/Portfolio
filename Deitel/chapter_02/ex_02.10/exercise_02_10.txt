@@ -1,0 +1,9 @@
+a. This is false because for example assignmint is being evaluiated from left to right not from right to left.
+
+b. True
+
+c. No because a = 5 is written in quation marks, it must be witout that to be an example of assingnment statement.
+
+d. No if there are multiplication or division or modulus beetwen addition and subtraction.
+
+e. No, h22 is correct variable name.

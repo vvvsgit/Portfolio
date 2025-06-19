@@ -1,0 +1,1 @@
+'std::' means that we are going to use names that are belong to namespace std witch is included in '<iostream>', 'cout' is a output stream that prints what we are want to the screen, 'cin' is a input stream that inputs some information that we are typeing by keyboard.

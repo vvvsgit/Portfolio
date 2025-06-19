@@ -1,0 +1,8 @@
+a. std::cout << "Enter two numbers" << std::endl;
+
+b. int a = b * c;
+
+c. /// After than that you have inserted your card to ATM it shows your current balance if you click the right command. Than you see your balance you can chose the amount of money that you want to get from ATM, it will subtract the amount that you have chosen from your balance if there is enough, otherwise it will get error, and give you the same amount money that it subtracted from your balance. 
+
+d. int a, b, c;
+   std::cin >> a >> b >> c;

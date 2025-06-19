@@ -1,0 +1,2 @@
+Because programming in machine-dependent language is too slow and boring and it can be read only particular type of computer.
+Maybe for that that computer will work faster with programs written in machine-dependent languages.
