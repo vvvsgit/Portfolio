@@ -1,0 +1,1 @@
+Data member is a variable that is declared inside a class definition so that it can be used or modified at any time during a program's execution.

@@ -1,0 +1,1 @@
+Set function receives some parameter, validates it and gives it to data member. Get function obtains a data members value to use it where needed. Providing public set and get functions allows clients of a class to access the hidden data(private). The names of these member functions need not begin with set or get, but this naming convention is common.

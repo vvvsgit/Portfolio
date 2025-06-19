@@ -1,0 +1,1 @@
+Default constructor is a constructor without parameters. This one provided by the compiler creates class object without giving any initial values to its data members.

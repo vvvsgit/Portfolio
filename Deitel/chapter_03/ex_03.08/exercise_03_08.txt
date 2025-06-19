@@ -1,0 +1,2 @@
+Header file contains class definition and functions. This file is for the user.
+Source-code file contains the implemetation of the class. This one is for progrommers.
