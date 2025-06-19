@@ -1,0 +1,21 @@
+
+                               | Senior | AcademicProbation
+                               |        
+                               | Junior 
+        | UndergraduateStudent |
+        |                      | Sophomore 
+        |                      |
+        |                      | Freshman | PartTimeStudent
+        |
+Student |
+        |
+        |
+        |                           
+        |                                   | ReserchMasters
+        |                  | MastersStudent |
+        |                  |                | CourseMasters
+        | GraduateStudent  | 
+                           |                 | DissertationDoctoral
+                           | DoctoralStudent |
+                                             | CourseDoctoral
+

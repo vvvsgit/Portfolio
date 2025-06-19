@@ -1,0 +1,3 @@
+As long as there is inheritance and classes with some similar behavior, derived class can reuse base class' functions to do the same job or part of the same job if there is any similar functions.
+This saves time physically because you do not need to write function again and there will be no need to check for errors, because function was allready in use which considers that it was checked for errors.
+

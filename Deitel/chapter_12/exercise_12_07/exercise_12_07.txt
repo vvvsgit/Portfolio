@@ -1,0 +1,22 @@
+
+                                  | Equal Triangle
+                       | Triangle |
+                       |          | Right Triangle
+                       |
+                       |
+      | TwoDimensional | Rectangle | Square
+      |                |
+      |                |
+      |                | Circle
+      |
+Shape |
+      |
+      |                            | Triangle Pyramid
+      |                  | Pyramid |
+      |                  |         | Square Pyramid
+      |                  |
+      | ThreeDimensional | Sphere
+                         |
+                         |
+                         | Cuboid | Cube
+

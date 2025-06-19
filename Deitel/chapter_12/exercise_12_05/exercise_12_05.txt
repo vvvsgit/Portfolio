@@ -1,0 +1,2 @@
+Protected access gives to derived class a possibility to modify base class' data directly, without using get or set functions, maybe it will increase performance, because there can be less function calls but it also can lead to logical error by providing invalid data directly not through set function.
+

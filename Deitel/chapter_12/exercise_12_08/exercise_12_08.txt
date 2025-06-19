@@ -1,0 +1,8 @@
+
+              | Trapezoid | Right Trapezoid
+              |                
+Quadrilateral |
+              |               | Diamond  
+              | Parallelogram |
+                              | Rectangle | Square                
+
