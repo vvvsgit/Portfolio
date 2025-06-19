@@ -1,0 +1,9 @@
+
+Error 1: invalid hour, set to 0.
+Error 2: invalid minute, set to 0
+Error 3: invalid second, set to 0
+
+With all values specified as invalid
+ 00:00:00
+ 12:00:00 AM
+

@@ -1,0 +1,13 @@
+
+Constructed with defaulted argument: Current time
+ 22:55:16
+ 10:55:16 PM
+
+With all values specified
+ 10:10:10
+ 10:10:10 AM
+
+With all values specified as invalid
+ 00:00:00
+ 12:00:00 AM
+

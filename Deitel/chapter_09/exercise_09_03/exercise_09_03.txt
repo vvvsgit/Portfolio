@@ -1,0 +1,4 @@
+What is the purpose of the scope resolution operator?
+
+Variables declared in a member function have block scope and are known only to that function. If a member function defines a variable with the same name as a variable with class scope, the class-scope variable is hidden by the block-scope variable in the block scope. Such a hidden variable can be accessed by preceding the variable name with the class name followed by the scope resolution operator (::).
+
