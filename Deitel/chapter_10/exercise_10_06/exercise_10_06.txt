@@ -1,0 +1,2 @@
+Class' constructor and destructor can't have return type, it will bring to compilation error.
+

@@ -1,0 +1,1 @@
+No because they both will act like default constructor and class can't have two default constructors.

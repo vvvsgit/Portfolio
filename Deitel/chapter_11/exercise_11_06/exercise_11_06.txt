@@ -1,0 +1,1 @@
+Operators that can be used with user defined types without overloading them are =(assignment), &(address) and ,(comma). Operators can be overloaded in order to make code more look like real world expressions(most times as mathematical expressions) or to make assignment operator work correctly if class has pointer data member.

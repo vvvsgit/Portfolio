@@ -1,0 +1,137 @@
++
+    Array:  element to element addintion
+    Stack:  combine stacks
+    String: concatenation
+-
+    Array:  element to element subtraction
+    Stack:  removing mutual elements from first stack
+    String: remove substring
+*
+    Array:  element to element multiplication
+    Stack:  -
+    String: -
+/
+    Array:  element to element division
+    Stack:  -
+    String: -
+%
+    Array:  element to element modulus
+    Stack:  -
+    String: -
+^
+    Array:  element to element xor
+    Stack:  -
+    String: -
+&
+    Array:  element to element bitwise and
+    Stack:  -
+    String: -
+|
+    Array:  element to element btwise or
+    Stack:  -
+    String: -
+!
+    Array:  determine if empty
+    Stack:  determine if empty
+    String: determine if empty
+=
+    Array:  assign
+    Stack:  assign
+    String: assign
+<
+    Array:  shift elemets to left
+    Stack:  remove first element
+    String: remove first element
+>
+    Array:  shift elements to right
+    Stack:  remove last element
+    String: remove last element
++=
+    Array:  + and keep result in first array
+    Stack:  + and keep result in first stack
+    String: + and keep result in first string
+-=
+    Array:  - and keep result in first array 
+    Stack:  - and keep result in first stack
+    String: - and keep result in first string
+*=
+    Array:  * and keep result in first array
+    Stack:  - 
+    String: -
+/=
+    Array:  / and keep result in first array
+    Stack:  -
+    String: -
+%=
+    Array:  % and keep result in first array
+    Stack:  -
+    String: -
+^=
+    Array:  ^ and keep result in first array
+    Stack:  -
+    String: -
+&=
+    Array:  & and keep result in first array
+    Stack:  -
+    String: -
+|=
+    Array:  | and keep result in first array
+    Stack:  -
+    String: -
+<<
+    Array:  output array
+    Stack:  output stack
+    String: output string
+>>
+    Array:  input array
+    Stack:  input stack
+    String: input array
+==
+    Array:  check equality
+    Stack:  check equality
+    String: check equality
+!=
+    Array:  check unequality
+    Stack:  check unequality
+    String: check unequality
+<=
+    Array:  check less or equal
+    Stack:  check less or equal
+    String: check less or equal
+>=
+    Array:  check greater or equal
+    Stack:  check greater or equal
+    String: check greater or equal
+&&
+    Array:  element to element and(if bool)
+    Stack:  -
+    String: -
+||
+    Array:  element to element or(if bool)
+    Stack:  -
+    String: -
+++
+    Array:  increment elements
+    Stack:  add element
+    String: add character
+--
+    Array:  decrement elements
+    Stack:  remove last element
+    String: remove last element
+[]
+    Array:  acces element at
+    Stack:  acces element at 
+    String: acces element at 
+()
+    Array:  can be used for many things
+    Stack:  can be used for many things 
+    String: can be used for many things 
+
+
+Wide variaty of classes
+    +, -, =, !, +=, -=, ==, !=, <, >, <=, >=, <<, >>, []
+Little value for overloading
+    &&, ||, --, ++, *, /, %, *=, /=, %=, ++, --
+Operations seems ambiguous
+    (), ^, &, |, |=, &=, ^=
+

@@ -1,0 +1,2 @@
+Friendship allows to get access to class' private datas, but it is brings to breaking encapsulation, which one is a good thing.
+

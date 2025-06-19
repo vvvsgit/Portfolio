@@ -1,0 +1,53 @@
++
+    String concantanation, numeric objects' addition.
+-
+    Numeric objects' subtraction.
+*
+    Numeric objects' multiplication.
+/
+    Numeric objects' division.
+%
+    To calculate percentage or modulus for user defined objects.
+^
+    To calculate power.
+!
+    Reverse object.
+=
+    Make assignment for user defined objects.
+>
+    Check is greater than for user defined objects.
+<
+    Check is less than for user defined objects.
++=
+    Add and assign for user defined objects.
+-=
+    Subtract and assign for user defined objects.
+*=
+    Multilpy and assign for user defined objects.
+/=
+    Divide and assign for user defined objects.
+%=
+    Modulus and assign for user defined objects.
+^=
+    Calculate power and assign for user defined objects.
+<<
+    Output.
+>>
+    Input.
+==
+    Check equality.
+!=      
+    Check unequality.
+<=
+    Check less than or equal.
+>=
+    Check greater than or equal.
+++
+    Increment for objects particular mening.
+--
+    Decrement for objects particular mening.
+[]
+    Access element at [x] of container.
+()
+    Can be used for wide opurtunities.
+

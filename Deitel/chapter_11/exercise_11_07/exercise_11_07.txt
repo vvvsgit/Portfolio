@@ -1,0 +1,2 @@
+The operators that can not be overloaded are (.), (.*), (::), (?:), (sizeof) and (typeid).
+

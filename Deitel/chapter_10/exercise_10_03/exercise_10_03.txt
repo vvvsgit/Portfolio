@@ -1,0 +1,1 @@
+New operation allocates memory dynamicly and delete deallocates it, if allocation was made wite [] for allocating array of objects delete also shuld be with [] or else it can bring to errors, because deleteing without [] will delete only the first object in the array.
