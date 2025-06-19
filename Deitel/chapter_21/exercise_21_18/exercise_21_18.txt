@@ -1,0 +1,4 @@
+In this chapter, we saw that duplicate elimination is straightforward when creating a binary search tree. Describe how you would perform duplicate elimination using only a one-dimensional array. Compare the performance of array-based duplicate elimination with the performance of binary-search-tree-based duplicate elimination.
+
+With array you can compare every element of the array with all the other elements to see if there is a duplicate, or in case of sorted array iterate on it and check only neighbour elements for duplicates. So with binary tree it is faster.
+
