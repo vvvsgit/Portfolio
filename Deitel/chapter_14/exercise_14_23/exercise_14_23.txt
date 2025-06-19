@@ -1,0 +1,7 @@
+Suppose that class template Employee has a static data member count. Suppose that three class-template specializations are instantiated from the class template. How many copies of the static data member will exist? How will the use of each be constrained (if at all)?
+
+Every instantation will have it's own static data member. In this case we'll have three copy of count.
+To use count of int Employee write Employee<int>::count.
+To use count of double Employee write Employee<double>::count.
+To use count of String Employee write Employee<String>::count.
+

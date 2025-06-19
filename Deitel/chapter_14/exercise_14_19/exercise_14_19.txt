@@ -1,0 +1,4 @@
+Why might you use a nontype parameter with a class template for a container such as an array or stack?
+
+To specify the container's size at compile time, which also improves performance.
+

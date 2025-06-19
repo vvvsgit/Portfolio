@@ -1,0 +1,4 @@
+Describe how to provide an explicit specialization of a class template.
+
+In order to do that we should form a new class with the same signiture but with exact type, not with template.
+

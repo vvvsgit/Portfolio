@@ -1,0 +1,4 @@
+What is the relationship between function templates and overloading?
+
+The function-template specializations generated from a function template all have the same name, so the compiler uses overloading resolution to invoke the proper function.
+

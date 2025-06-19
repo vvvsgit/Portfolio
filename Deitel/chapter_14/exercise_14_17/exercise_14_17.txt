@@ -1,0 +1,5 @@
+Why might a C++ program use the statement
+    Array <Employee> workerList;
+
+To instantiate Array of Employee with default constructor.
+

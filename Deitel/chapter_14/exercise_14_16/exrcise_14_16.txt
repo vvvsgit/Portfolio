@@ -1,0 +1,5 @@
+Explain why a C++ program would use the statement
+    Array <Employee> workerList(100);
+
+To instantiate Arroy of Employees providing 100 as a constructor argument.
+

@@ -1,0 +1,7 @@
+Describe the relationship between class templates and inheritance.
+
+A class template can be derived from a class-template specialization.
+A class template can be derived from a nontemplate class.
+A class-template specialization can be derived from a class-template specialization.
+A nontemplate class can be derived from a class-template specialization.
+

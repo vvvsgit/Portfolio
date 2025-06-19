@@ -1,0 +1,5 @@
+///Distinguish between the terms "function template" and "function-template specialization."
+
+Function template is a function which implemented using templates to avoid code repeating.
+Function-template specialization is the name for overloaded functions genereted from function template using different data types.
+

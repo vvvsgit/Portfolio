@@ -1,0 +1,5 @@
+Explain the use of the following notation in a C++ program:
+    template <typename T> Array<T>::Array(int s)
+
+To implement constructor of class Array.
+

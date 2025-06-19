@@ -1,0 +1,4 @@
+///Which is more like a stencila class template or a class-template specialization? Explain your answer.
+
+Class template, because class template can be used to generate more specific classes with specific types of data.
+

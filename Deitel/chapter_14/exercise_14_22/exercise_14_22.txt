@@ -1,0 +1,10 @@
+Suppose that a class template has the header
+    template <typename T> class Ct1
+
+a. f1() is a friend function of every class-template specialization instantiated from class Ct1. 
+b. f2(Ct1<T>&) is a friend function of only class-template specialization with the same type argument of class Ct1. 
+c. C2::f3() is a C2 class member function and a friend function of every class-template specialization instantiated from class Ct1. 
+d. Ct3<T>::f4(Ct1<T>&) is a Ct3 class member function and a friend function of only class-template specialization with the same type argument of class Ct3. 
+e. C4 is a friend of Ct1, every member function from class C4 is a friend function of every class-template specialization instantiated from class Ct1. 
+f. Ct5<T> is a friend of Ct1, every member function from class Ct5 is a friend function of only class-template specialization with the same type argument of class Ct1.
+

@@ -1,0 +1,4 @@
+Why is it appropriate to refer to a class template as a parameterized type?
+
+Because it requires a type as a argument to be able to create class-template specialization in case of different types.
+

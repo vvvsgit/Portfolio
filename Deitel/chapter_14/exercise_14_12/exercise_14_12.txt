@@ -1,0 +1,4 @@
+///Why might you choose to use a function template instead of a macro?
+
+Macros can have serious side effects and don't enable the compiler to perform type checking, which can cause to errors.
+
