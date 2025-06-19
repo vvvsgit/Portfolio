@@ -1,0 +1,2 @@
+Polymorphism enables program in the general by letting us to use variable classes' objects of the same hierarchy to use as if they are objects of the base class. With this feature it is possible to call specific functions for all classes from one array of base class pointers. In case of adding new classes will no need of changing the main code, it will work the same with few more classes.
+Program in the specific will require an array for every type of the class, new classes means new array to be added in the code.

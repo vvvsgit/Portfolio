@@ -1,0 +1,2 @@
+With polymorphism new classes can be added with little or no modification to the general portions of the program, as long as the new classes are part of the inheritance hierarchy that we were working on before. The only parts of a program that must be changed to include new classes are those that require direct knowledge of the new classes that the is being add to the hierarchy. For example, if we add new classwe need to write only that class implementation and the part of the simulation that instantiates a new class' object. The left of the main code can remain unchanged.
+

@@ -1,0 +1,2 @@
+Pure virtual functions make class to be abstract and always should be overridden, while virtual functions can be overridden if neccesery and doesn't make abstract classes.
+

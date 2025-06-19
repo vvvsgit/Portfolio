@@ -1,0 +1,2 @@
+Virtual functions allow objects from same hierarchy to behave specificly by their implementation of the same signiture having function which was overridden in every class, or every neccesery one. For example in shape hierarchy different shapes have different measures to be specified which means different forms to calculate the area, virtual functions will help here to get specific function for every object.
+

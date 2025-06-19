@@ -1,0 +1,2 @@
+Static binding is being in the compile time while dynamic binding in the run time. When a class compiles that has virtual function, it builds a virtual function table, vtable, for that class. An executing program uses the vtable to select the proper function implementation each time a virtual function of that class is called.
+

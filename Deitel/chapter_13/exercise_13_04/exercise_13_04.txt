@@ -1,0 +1,1 @@
+Using switch in place of polymorphism will can cause to some logic and some long modifications of the code if there are new classes added, and switch shuld have one case for every type of class there is in the hiararchy, otherwise polymorphism lets all be simple. But switch has better performance.

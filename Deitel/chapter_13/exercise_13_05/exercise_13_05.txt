@@ -1,0 +1,2 @@
+Hierarchies designed for implementation inheritance tend to have their functionality high in the hierarchy, each new derived class inherits one or more member functions that were defined in a base class, and the derived class uses the base-class definitions. Hierarchies designed for interface inheritance tend to have their functionality lower in the hierarchy, a base class specifies one or more functions that should be defined for each class in the hierarchy, but the individual derived classes provide their own implementations of the functions.
+
