@@ -1,0 +1,6 @@
+(Performance of Binary Tree Sorting and Searching) One problem with the binary tree sort is that the order in which the data is inserted affects the shape of the tree, for the same collection of data, different orderings can yield binary trees of dramatically different shapes. The performance of the binary tree sorting and searching algorithms is sensitive to the shape of the binary tree. What shape would a binary tree have if its data was inserted in increasing order? in decreasing order? What shape should the tree have to achieve maximal searching performance?
+
+a. inserting in increasing order will become a tree with only right nodes.
+b. inserting in decreasing order will become a tree with only left  nodes.
+c. for maximal performance it should be the most balanced shape, every same level subtrees should have maximum one node in difference in depth.
+
