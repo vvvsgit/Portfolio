@@ -1,0 +1,15 @@
+a.
+    The name f the four elements of array p (int p[4];) are p[0], p[1], p[2] and p[3].
+
+b.
+    Naming an array, stating its type and specifying the number of elements in the array is called declare the array.
+
+c.
+    By convention, the first subscript int a two-dimensional array identidies an element's row and the second subscript identifies an element's column.
+
+d.
+    An m-by-n array contains m rows, n columns and m*n elements.
+
+e.
+    The name of the element in row 3 and column 5 of array d is d[2][4].
+

@@ -1,0 +1,18 @@
+a.
+    false
+    Name and position number, not value.
+
+b.
+    true
+
+c.
+    true
+
+d.
+    false
+    We can do it while declaring array.
+
+e.
+    false
+    It can be done one by one.
+
